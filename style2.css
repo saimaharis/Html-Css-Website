@@ -20,7 +20,7 @@ max-width: fit-content;
 
 
 .header{
-    background-image:url("images/banner.png");
+    background-image:url("banner.png");
     height: 450px;
     overflow:hidden;
 }
